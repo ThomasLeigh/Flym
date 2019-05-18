@@ -250,8 +250,8 @@
     <string name="show_read_article_count_descr">In feed list</string>
     <string name="show_group_entrries_count">Group article count</string>
     <string name="show_group_entries_count_descr">may reduce performance</string>
-    <string name="textColorRead">Text color read</string>
-    <string name="textColorRead_descr">Color of articles which have been read</string>
+    <string name="textColorRead">Read articles</string>
+    <string name="textColorRead_descr">Color of read articles</string>
     <string name="settings_color_text_read_sample_short">Read</string>
     <string name="settings_color_text_read_sample_long">Read articles</string>
 
